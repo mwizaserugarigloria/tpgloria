@@ -9,6 +9,9 @@
 ##video demo
 
 
-https://github.com/user-attachments/assets/fcc2d74a-32ea-47bd-ad87-70b1e67e595c
+
+https://github.com/user-attachments/assets/6d44d4b6-6de3-4572-9c3c-78272cccb1cc
+
+
 
 
